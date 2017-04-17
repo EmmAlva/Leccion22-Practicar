@@ -1,18 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
 *{
-	font-family: 'Raleway';
+	font-family: 'Quicksand';
 
 }
 
-div div{
+div{
 	background: #F0E91F;
 	padding-top:5px;
 	padding-left: 5px;
-	padding-bottom: 20px;
+	padding-bottom: 25px;
+	display: block;
+	width: 150px;
+	margin-bottom: 15px;
+	font-weight: bold;
+	/*white-space: pre-wrap;*/
+	height: 
+}
+
+[data-id="1"]{
+
 }
 
 [data-id="2"]{
 	background: #EE1140;
-	border: 1px solid #000;
+	/*border: 1px solid #000;*/
 }
 
 [data-id="3"]{
