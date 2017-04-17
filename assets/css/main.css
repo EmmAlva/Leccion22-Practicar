@@ -1,0 +1,21 @@
+*{
+	font-family: 'Raleway';
+
+}
+
+div div{
+	background: #F0E91F;
+	padding-top:5px;
+	padding-left: 5px;
+	padding-bottom: 20px;
+}
+
+[data-id="2"]{
+	background: #EE1140;
+	border: 1px solid #000;
+}
+
+[data-id="3"]{
+	text-transform: uppercase;
+
+}
